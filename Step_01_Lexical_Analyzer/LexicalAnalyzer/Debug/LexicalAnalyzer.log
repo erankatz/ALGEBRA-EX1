@@ -1,0 +1,14 @@
+﻿  driver.c
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(76): warning C4013: 'strdup' undefined; assuming extern returning int
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(76): warning C4047: 'initializing' : 'char *' differs in levels of indirection from 'int'
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(81): warning C4013: 'strtok' undefined; assuming extern returning int
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(81): warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int'
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(81): warning C4024: 'atoi' : different types for formal and actual parameter 1
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(82): warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int'
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(82): warning C4024: 'atoi' : different types for formal and actual parameter 1
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(106): warning C4133: '=' : incompatible types - from 'int **' to 'float **'
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(114): warning C4133: '=' : incompatible types - from 'int **' to 'float **'
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(127): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\step_01_lexical_analyzer\step_01_lexical_analyzer\lexicalanalyzer\driver.c(205): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+errormsg.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  LexicalAnalyzer.vcxproj -> C:\Copy\א תשעז\קומפיילרים וניתוח מתקדם של שפות תכנות\Step_01_Lexical_Analyzer\Step_01_Lexical_Analyzer\LexicalAnalyzer\Debug\LexicalAnalyzer.exe
